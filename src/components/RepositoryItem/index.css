@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.the-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 15px;
+  width:20vw;
+}
+
+.little-row {
+  display: flex;
+  flex-direction: row;
+}
+.image-size {
+  height: 50px;
+  width: 50px;
+}
+.name {
+  font-size: 15px;
+  color: #e73959;
+}
+.little-image {
+  height: 14px;
+  width: 14px;
+}
+.little-heads {
+  font-size: 15px;
+}
